@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "Kimi k1.5: Scaling Reinforcement Learning with LLMs"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/Kimi-k1-5-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Kimi k1.5: Scaling Reinforcement Learning with LLMs"
+  authors:
+    - family-names: Team
+      given-names: Kimi
+    - family-names: Du
+      given-names: Angang
+    - family-names: Gao
+      given-names: Bofei
+    - family-names: Xing
+      given-names: Bowei
+    - family-names: Jiang
+      given-names: Changjiu
+    - family-names: Chen
+      given-names: Cheng
+    - family-names: Li
+      given-names: Cheng
+    - family-names: Xiao
+      given-names: Chenjun
+    - family-names: Du
+      given-names: Chenzhuang
+    - family-names: Liao
+      given-names: Chonghua
+    - family-names: Tang
+      given-names: Chuning
+    - family-names: Wang
+      given-names: Congcong
+    - family-names: Zhang
+      given-names: Dehao
+    - family-names: Yuan
+      given-names: Enming
+    - family-names: Lu
+      given-names: Enzhe
+    - family-names: Tang
+      given-names: Fengxiang
+    - family-names: Sung
+      given-names: Flood
+    - family-names: Wei
+      given-names: Guangda
+    - family-names: Lai
+      given-names: Guokun
+    - family-names: Guo
+      given-names: Haiqing
+    - name: Additional original paper authors
+  journal: "arXiv preprint arXiv:2501.12599"
+  year: 2025
+  url: "https://arxiv.org/abs/2501.12599"
